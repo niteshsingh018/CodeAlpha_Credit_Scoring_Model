@@ -1,0 +1,32 @@
+feature,importance
+credit_score,0.2734347925168472
+income_to_debt_ratio,0.11873454428053722
+debt_to_income_ratio,0.09973097933849666
+delinquencies_last_2yrs,0.06785861256895058
+defaults_on_file_1,0.052082121730182715
+credit_history_years,0.04911801632935835
+interest_rate,0.04708556512915981
+financial_stress_ratio,0.03719727084622452
+age,0.03591676093644095
+credit_history_to_age_ratio,0.027110877116751326
+income_to_loan_ratio,0.021530457403887912
+loan_to_income_ratio,0.01876958021220403
+payment_to_income_ratio,0.017204552989789384
+years_employed,0.01656657293647616
+derogatory_marks,0.01617223223833466
+loan_intent_Education,0.015989696406950606
+loan_intent_Debt Consolidation,0.012570700269908263
+employment_to_age_ratio,0.012289849117869438
+savings_to_debt_ratio,0.012118053210821976
+savings_assets,0.008716173540657861
+current_debt,0.007718487054314611
+total_debt_burden,0.0068996452181453475
+loan_amount,0.006536094087166844
+annual_income,0.006306653006997288
+product_type_Personal Loan,0.004767843198252776
+loan_intent_Personal,0.003683703985995503
+product_type_Line of Credit,0.0022491097030529045
+occupation_status_Student,0.0009012096888646101
+loan_intent_Medical,0.00024995901579338115
+occupation_status_Self-Employed,0.0002498593391107712
+loan_intent_Home Improvement,0.00024002658245649895
